@@ -1,0 +1,7 @@
+# Core runtime deps for noor_detect.py
+numpy
+tensorflow
+librosa
+soundfile
+rich
+tqdm
