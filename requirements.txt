@@ -5,3 +5,4 @@ librosa
 soundfile
 rich
 tqdm
+openvino
