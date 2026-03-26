@@ -1,0 +1,19 @@
+{
+  "categories": [
+    "music",
+    "not_music",
+    "background"
+  ],
+  "sample_rate": 22050,
+  "chunk_seconds": 2,
+  "n_mels": 128,
+  "hop_length": 512,
+  "test_accuracy": 0.9908536672592163,
+  "test_loss": 0.3383668065071106,
+  "input_shape": [
+    128,
+    87,
+    1
+  ],
+  "built_by": "OpenNoorIlm"
+}
